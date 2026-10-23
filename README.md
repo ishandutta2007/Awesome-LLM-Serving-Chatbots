@@ -60,7 +60,7 @@ The following table compares leading managed LLM serving providers and GPU serve
 
 ## ⚡ Open-Source Serving Engines & Chatbot Frameworks
 
-The table below catalogs premier open-source inference servers, local runtimes, and chatbot platforms, sorted descending by **GitHub Stars_Count**:
+The table below catalogs premier open-source inference servers, local runtimes, and chatbot platforms, sorted descending by **GitHub_Stars_Count**:
 
 | Project 🛠️ | GitHub_Stars 🌟 | Primary Focus & Architecture ⚙️ | Best Used For 🎯 |
 | :--- | :--- | :--- | :--- |
